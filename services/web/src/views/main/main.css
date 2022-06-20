@@ -30,11 +30,11 @@ body {
 }
 
 header {
-  color: #fefefe;
+  color: #feeefe;
 }
 
 .mainBody .sidebar .btn.active {
-  color: #adb5bd;
+  color: #acb5bd;
 }
 
 .mainBody .sidebar .btn {
@@ -56,7 +56,7 @@ header {
 
 .message-area-wrapper {
   border-radius: 5px;
-  border: 1px solid #1b1e21;
+  border: 1px solid #1c1f21;
   width: 100%;
 }
 
